@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Isaac Aruanda
 
-**"Desenvolvedor back-end"**
+**"DATA Engineer"**
 
 Olá, meu nome é Isaac Aruanda. Sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia, com foco especial em programação voltada para dados.
 
