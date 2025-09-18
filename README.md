@@ -10,8 +10,6 @@ Olá! Meu nome é Isaac Aruanda, atualmente sou discente no Centro Universitári
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF, consolidando conhecimentos na área de Engenharia de Dados. Experiência prática em bancos de dados (SGBD's), modelagem de dados (modelo relacional e Star Schema) e processos ELT. Focado no estudo do processamento de grandes volumes de dados e na aplicação de boas práticas para organização e transformação eficiente de dados. Desenvolvo habilidades em automação de tarefas e manipulação de dados com Python, com base em experiências anteriores em projetos e estágios. 
 
--  Contatos: isaacaruanda13@gmail.com<a href="https://api.whatsapp.com/send?phone=5561992553228&amp;text=Ol%C3%A1%20Isaac!" style="color: white;"> -- +55(61) 9 9255-3228</a>
--  Linkedin: [isaac-aruanda](https://www.linkedin.com/in/isaac-aruanda//) 
 
 ##  Desempenho pessoal:
 
@@ -22,6 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF, consolidando c
 <a href="https://github.com/IsaacAruanda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacAruanda&show_icons=true&theme=dracula&line_height=27" height="200" alt="Isaac Aruanda's GitHub Stats" />
 </a>
+
 
 ## Languages and Tools:
 
@@ -44,6 +43,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF, consolidando c
 <div> 
   <a href="https://instagram.com/isaacaruanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/z8ABwDVr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:silveirames@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isaacaruanda13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaac-aruanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5561992553228&amp;text=Ol%C3%A1%20Isaac!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
