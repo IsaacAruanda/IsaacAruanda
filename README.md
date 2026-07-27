@@ -1,49 +1,215 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=A7A5F7&background=2BFFF600&center=true&vCenter=true&width=850&height=30&lines=Hi+there%2C+I+am+Isaac+Aruanda;I'm+glad+you're+here;I+study+Systems+Analysis+and+Development;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
+<img src="./banner-premium.png" alt="Isaac Aruanda banner" width="100%" />
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
+
 </div>
 
-##
+<br />
 
-Olá! Meu nome é Isaac Aruanda, atualmente sou discente no Centro Universitário (UDF) do curso de Analise e desenvolvimento de sistemas.
+## About Me
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF, consolidando conhecimentos na área de Engenharia de Dados. Experiência prática em bancos de dados (SGBD's), modelagem de dados (modelo relacional e Star Schema) e processos ELT. Focado no estudo do processamento de grandes volumes de dados e na aplicação de boas práticas para organização e transformação eficiente de dados. Desenvolvo habilidades em automação de tarefas e manipulação de dados com Python, com base em experiências anteriores em projetos e estágios. 
+I'm an IT Support Analyst with experience supporting enterprise environments, Microsoft 365, Active Directory, ServiceNow and SQL.
+
+I enjoy solving complex technical problems, automating repetitive tasks with Python, and building solutions that improve operational efficiency.
+
+Currently pursuing a Bachelor's Degree in Systems Analysis and Development while preparing for international opportunities in Canada.
+
+<br />
+
+## Professional Highlights
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Experience**
+
+✔ 3+ years in IT Support
+✔ Enterprise Environment
+✔ SLA Management
+✔ Microsoft 365 Administration
+
+</td>
+<td width="50%" valign="top">
+
+**Core Competencies**
+
+✔ Active Directory
+✔ SQL Troubleshooting
+✔ Python Automation
+✔ Incident & Problem Management
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Certifications
+
+<div align="left">
+
+![ITIL Foundation](https://img.shields.io/badge/ITIL-Foundation-161B22?style=for-the-badge&logo=axios&logoColor=58A6FF&labelColor=0D1117)
+![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900_Azure_Fundamentals-161B22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=0D1117)
+
+</div>
+
+<br />
+
+## Technology Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="20%">
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
+
+**Infrastructure**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E3440?style=flat-square&logo=cisco&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
+
+**Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
+
+**Data**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</td>
+<td valign="top" width="20%">
+
+**Development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Corporate Ticket System
+Enterprise ticket management platform built with TypeScript.
+
+</td>
+<td width="50%" valign="top">
+
+### IT Process Automation
+Python automation scripts for repetitive IT operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Printer Maintenance Agent
+Automation system used for thermal printer maintenance.
+
+</td>
+<td width="50%" valign="top">
+
+### Business Intelligence Dashboard
+Power BI dashboards with SQL integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### SQL Database Project
+Database modeling and data analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### IT Asset Management
+Application for inventory and lifecycle management of IT assets.
+
+</td>
+</tr>
+</table>
+
+<br />
 
 
-##  Desempenho pessoal:
+## GitHub Stats
 
- 
-<a href="https://github.com/IsaacAruanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAruanda&theme=dracula&hide_langs_below=1" height="200" />
-</a>
-<a href="https://github.com/IsaacAruanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacAruanda&show_icons=true&theme=dracula&line_height=27" height="200" alt="Isaac Aruanda's GitHub Stats" />
-</a>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 
-## Languages and Tools:
+<br />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
+<br />
 
-[![Blog](https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/java-original.svg?size=40&color=ffffff)]()
-[![Blog](https://icongr.am/devicon/python-original.svg?size=40&color=ffffff)]()
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=github-dark&hide_border=true&layout=compact" alt="Productive Time" />
 
+</div>
 
-  [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
-  [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-  
+<br />
 
-## Social:
-<div> 
-  <a href="https://instagram.com/isaacaruanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/z8ABwDVr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:isaacaruanda13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaac-aruanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5561992553228&amp;text=Ol%C3%A1%20Isaac!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
+## Currently Looking For
+
+- IT Support Analyst
+- Systems Analyst
+- Technical Support
+- Cloud Support
+- Infrastructure Support
+- **Canada Opportunities**
+
+<br />
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+<sub>Always learning. Always improving. Always building.</sub>
+
+</div>
