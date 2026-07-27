@@ -17,10 +17,8 @@
 ## About Me
 
 I'm an IT Support Analyst with experience supporting enterprise environments, Microsoft 365, Active Directory, ServiceNow and SQL.
-
 I enjoy solving complex technical problems, automating repetitive tasks with Python, and building solutions that improve operational efficiency.
-
-Currently pursuing a Bachelor's Degree in Systems Analysis and Development while preparing for international opportunities in Canada.
+Currently pursuing a Bachelor's Degree in Systems Analysis and Development.
 
 <br />
 
