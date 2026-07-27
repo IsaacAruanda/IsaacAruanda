@@ -1,8 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
-<img src="./banner-premium.png" alt="Isaac Aruanda banner" width="100%" />
+# Hi, I'm Isaac Aruanda 👋
 
-<br />
+### IT Support Analyst | Python | SQL | Microsoft 365 | Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://your-portfolio.com)
