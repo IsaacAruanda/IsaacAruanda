@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%">
 </p>
 
-# Hi, I'm Isaac Aruanda 👋
+# Hi, I'm Isaac Aruanda 
 
 ### IT Support Analyst | Python | SQL | Microsoft 365 | Azure
 
